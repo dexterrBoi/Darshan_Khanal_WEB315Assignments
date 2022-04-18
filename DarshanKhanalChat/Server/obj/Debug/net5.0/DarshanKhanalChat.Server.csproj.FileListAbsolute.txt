@@ -1,0 +1,276 @@
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.csproj.AssemblyReference.cache
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.AssemblyInfoInputs.cache
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.AssemblyInfo.cs
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.csproj.CoreCompileInputs.cache
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorAssemblyInfo.cache
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorAssemblyInfo.cs
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Client.StaticWebAssets.xml
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.StaticWebAssets.xml
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.exe
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.deps.json
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.runtimeconfig.json
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.runtimeconfig.dev.json
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\ref\DarshanKhanalChat.Server.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.pdb
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.Views.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.Views.pdb
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Client.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Shared.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Client.pdb
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Shared.pdb
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\staticwebassets\DarshanKhanalChat.Server.StaticWebAssets.Manifest.cache
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\staticwebassets\DarshanKhanalChat.Server.StaticWebAssets.xml
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\scopedcss\bundle\DarshanKhanalChat.Server.styles.css
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.TagHelpers.input.cache
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.TagHelpers.output.cache
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorCoreGenerate.cache
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorTargetAssemblyInfo.cache
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorTargetAssemblyInfo.cs
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.Views.pdb
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.csproj.CopyComplete
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\ref\DarshanKhanalChat.Server.dll
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.pdb
+C:\Users\W0795110\Desktop\New folder (2)\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.genruntimeconfig.cache
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\ref\DarshanKhanalChat.Server.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.pdb
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Client.StaticWebAssets.xml
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.StaticWebAssets.xml
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.exe
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.deps.json
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.runtimeconfig.json
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.runtimeconfig.dev.json
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\ref\DarshanKhanalChat.Server.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.pdb
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.Views.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.Views.pdb
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Client.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Shared.dll
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Client.pdb
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Shared.pdb
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.csproj.AssemblyReference.cache
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.AssemblyInfoInputs.cache
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.AssemblyInfo.cs
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.csproj.CoreCompileInputs.cache
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorAssemblyInfo.cache
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorAssemblyInfo.cs
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\staticwebassets\DarshanKhanalChat.Server.StaticWebAssets.Manifest.cache
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\staticwebassets\DarshanKhanalChat.Server.StaticWebAssets.xml
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\scopedcss\bundle\DarshanKhanalChat.Server.styles.css
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.TagHelpers.input.cache
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.TagHelpers.output.cache
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorCoreGenerate.cache
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorTargetAssemblyInfo.cache
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorTargetAssemblyInfo.cs
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.Views.pdb
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.csproj.CopyComplete
+C:\Users\yugra\OneDrive\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.genruntimeconfig.cache
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Client.StaticWebAssets.xml
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.StaticWebAssets.xml
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.exe
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.deps.json
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.runtimeconfig.json
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.runtimeconfig.dev.json
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\ref\DarshanKhanalChat.Server.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.pdb
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.Views.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.Views.pdb
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Client.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Shared.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Client.pdb
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Shared.pdb
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.csproj.AssemblyReference.cache
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.AssemblyInfoInputs.cache
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.AssemblyInfo.cs
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.csproj.CoreCompileInputs.cache
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorAssemblyInfo.cache
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorAssemblyInfo.cs
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\staticwebassets\DarshanKhanalChat.Server.StaticWebAssets.Manifest.cache
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\staticwebassets\DarshanKhanalChat.Server.StaticWebAssets.xml
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\scopedcss\bundle\DarshanKhanalChat.Server.styles.css
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.TagHelpers.input.cache
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.TagHelpers.output.cache
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorCoreGenerate.cache
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorTargetAssemblyInfo.cache
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorTargetAssemblyInfo.cs
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.Views.pdb
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.csproj.CopyComplete
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\ref\DarshanKhanalChat.Server.dll
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.pdb
+C:\Users\W0795110\Desktop\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.genruntimeconfig.cache
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Client.StaticWebAssets.xml
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.StaticWebAssets.xml
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.exe
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.deps.json
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.runtimeconfig.json
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.runtimeconfig.dev.json
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\ref\DarshanKhanalChat.Server.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.pdb
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.Views.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Server.Views.pdb
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Client.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Shared.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Client.pdb
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\bin\Debug\net5.0\DarshanKhanalChat.Shared.pdb
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.csproj.AssemblyReference.cache
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.AssemblyInfoInputs.cache
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.AssemblyInfo.cs
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.csproj.CoreCompileInputs.cache
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorAssemblyInfo.cache
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorAssemblyInfo.cs
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\staticwebassets\DarshanKhanalChat.Server.StaticWebAssets.Manifest.cache
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\staticwebassets\DarshanKhanalChat.Server.StaticWebAssets.xml
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\scopedcss\bundle\DarshanKhanalChat.Server.styles.css
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.TagHelpers.input.cache
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.TagHelpers.output.cache
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorCoreGenerate.cache
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorTargetAssemblyInfo.cache
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.RazorTargetAssemblyInfo.cs
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.Views.pdb
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.csproj.CopyComplete
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\ref\DarshanKhanalChat.Server.dll
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.pdb
+C:\Users\W0795110\OneDrive - St. Clair College\DarshanKhanalChat\Server\obj\Debug\net5.0\DarshanKhanalChat.Server.genruntimeconfig.cache
